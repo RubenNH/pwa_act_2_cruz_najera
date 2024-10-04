@@ -1,0 +1,16 @@
+{
+    "name": "PWA con Node-Cruz-Najera",
+    "short_name": "PWA-Node",
+    "description": "Construida con Node",
+    "icons": [
+      {
+        "src": "./images/ramirez.jpg",
+        "sizes": "247x204",
+        "type": "image/jpg"
+      }
+    ],
+    "start_url": "/",
+    "display": "fullscreen",
+    "theme_color": "#764ABC",
+    "background_color": "#764ABC"
+  }
